@@ -1,10 +1,6 @@
 # Домашнее задание 28: 
 
 ## Задания
-otus-linux<br>
-Vagrantfile - для стенда урока 9 - Network<br>
-
-
 Дано<br>
 
 https://github.com/erlong15/otus-linux/tree/network
