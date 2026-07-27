@@ -43,13 +43,13 @@ centralServer<br>
 192.168.0.32/28 - office hardware<br>
 192.168.0.64/26 - wifi<br>
 
-
+```
 Office1 ---\
 
                    -----> Central --IRouter --> internet
                    
 Office2----/
-
+```
 Итого должны получится следующие сервера<br>
 
 inetRouter<br>
