@@ -28,16 +28,22 @@ centralServer<br>
 192.168.2.64/26 - test servers<br>
 192.168.2.128/26 - managers<br>
 192.168.2.192/26 - office hardware<br>
+
+
 Сеть office2<br>
 
 192.168.1.0/25 - dev<br>
 192.168.1.128/26 - test servers<br>
 192.168.1.192/26 - office hardware<br>
+
+
 Сеть central<br>
 
 192.168.0.0/28 - directors<br>
 192.168.0.32/28 - office hardware<br>
 192.168.0.64/26 - wifi<br>
+
+
 Office1 ---\<br>
                    -----> Central --IRouter --> internet<br>
 Office2----/<br>
