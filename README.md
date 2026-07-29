@@ -423,7 +423,7 @@ Configuration accepted.
 ```
 
 
-### Настройка статических маршрутов
+### Настройка статических маршрутов и проверка с traceroute
 ```
 root@inetRouter:# cat /etc/netplan/50-vagrant.yaml
 ---
